@@ -1,5 +1,5 @@
 
---old dont use it--
+--old dont use this one use the other one titled loadstring
 
 local AutoWin = COB("World", {
 	["Name"] = "autowin",
